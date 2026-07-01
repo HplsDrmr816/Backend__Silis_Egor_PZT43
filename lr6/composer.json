@@ -1,0 +1,12 @@
+{
+    "name": "egors/lr6",
+    "description": "project",
+    "authors": [
+        {
+            "name": "Egor"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^7.1"
+    }
+}
